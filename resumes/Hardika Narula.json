@@ -1,0 +1,190 @@
+{
+  "name": "Hardika Narula",
+  "title": "Senior Technical Product Manager, Gen AI",
+  "email": "hardikanarula_po@proton.me",
+  "phone": "(872) 627 5760",
+  "location": "Sunnyvale, CA",
+  "zip": "94089",
+  "linkedin": "https://www.linkedin.com/in/hardikanarula/",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [
+    "Product roadmap development, product lifecycle management, product vision & strategy, stakeholder management, prioritization, product-led growth (PLG), GTM strategy, conversion optimization, A/B testing",
+    "Supervised learning, unsupervised learning, deep learning, NLP, human-in-the-loop (HITL) ML, AI sentiment analysis, churn prediction modeling, AI ethics, bias mitigation, model tuning",
+    "Python, R, SQL, Apache Spark, Hadoop, NoSQL, BigQuery, Redshift, distributed systems, low-latency systems",
+    "Zapier, Make.com, n8n",
+    "Figma, Sketch, Lucidchart, Miro",
+    "Enterprise SaaS, Fintech (Payments, Billing, Lending, Risk), Healthcare (FHIR R4/R4B, HL7, CDS Hooks, EHR), Telecom (eSIM/eUICC, HLR/HSS), GEOINT, Retail & Marketplace",
+    "AWS, Microsoft Azure, Google Cloud Platform, Docker, Kubernetes, CI/CD pipelines, model deployment, model monitoring",
+    "Docker, Kubernetes, CI/CD Pipelines, Model Monitoring",
+    "Jira, Confluence, Slack, Microsoft Teams, Zoom, Google Meet, Figma, Miro",
+    "Leadership, Problem-Solving, Strategic Thinking, Time Management, Cross-functional Communication, Stakeholder Engagement"
+  ],
+  "experience": [
+    {
+      "company": "Amazon",
+      "title": "Senior Technical Product Manager, Gen AI",
+      "location": "",
+      "start_date": "05/2024",
+      "end_date": "04/2026",
+      "base_bullets": [
+        "Spearheaded the development of an edge AI-powered image generation and editing app, collaborating with UX, science, framework, and engineering teams from ideation to launch, ensuring cross-team alignment and timely delivery.",
+        "Led product enhancements by partnering with the science team to reduce on-device generation latency by 65%, significantly improving customer experience benchmarks and customer satisfaction metrics.",
+        "Drove product prioritization and roadmap decisions with senior leadership to ensure scalable, cost-efficient, and private image generation through on-device LLM integration, reducing operational costs by 25%.",
+        "Laid the groundwork for industry-leading, on-device creative capabilities by advancing the organization's edge AI portfolio differentiation, solidifying Amazon’s position in the AI creative market.",
+        "Developed comprehensive product documentation and feature specifications, driving clarity and alignment across teams while ensuring high-quality output and compliance with internal standards.",
+        "Managed stakeholder communications, effectively articulating the impact of product changes and securing executive buy-in for critical initiatives in the AI-powered creative suite.",
+        "Implemented rigorous performance tracking and customer feedback loops, using data-driven insights to iterate and improve product offerings.",
+        "Delivered on ambitious KPIs, resulting in a 40% increase in user engagement and a 30% increase in retention for the product within six months post-launch.",
+        "Created and managed product go-to-market strategies, collaborating with sales and marketing teams to ensure successful product launches and clear messaging to key stakeholders.",
+        "Played a key role in developing product training programs and documentation, enabling smooth onboarding and knowledge transfer to customer support teams.",
+        "Fostered a culture of continuous improvement by advocating for Agile methodologies, resulting in a 15% improvement in sprint velocity and better team morale.",
+        "Co-led the annual review of AI portfolio capabilities, identifying new market trends and ensuring that the product roadmap aligned with long-term strategic goals.",
+        "Built and scaled enterprise SaaS product capabilities, aligning product architecture and roadmap with multi-tenant customer needs and long-term platform strategy.",
+        "Applied experimentation and A/B testing frameworks to improve funnel performance, activation, and retention across key user journeys.",
+        "Partnered with engineering on scalable systems and performance optimization, leveraging distributed processing concepts to support low-latency AI workloads.",
+        "Leveraged data-driven insights and large-scale analytics pipelines to inform prioritization and continuously improve product performance.",
+        "Contributed to API-driven product design and integration workflows, enabling extensibility across internal and external systems.",
+        "Delivered integrations with enterprise collaboration tools (e.g., Slack, Microsoft Teams) to improve usability and workflow efficiency.",
+        "Built AI-assisted features and automation workflows, improving user productivity and product value.",
+        "Fostered strong psychological safety and team culture, enabling effective cross-functional collaboration and innovation.",
+        "Collaborated across UX, applied science, ML infrastructure, and engineering organizations to deliver end-to-end GenAI product experiences.",
+        "Contributed to long-term edge AI strategy and product differentiation, positioning the organization for industry-leading on-device AI capabilities.",
+        "Enabled privacy-first AI architecture through on-device LLM deployment, improving trust and compliance for enterprise users."
+      ]
+    },
+    {
+      "company": "involve.ai",
+      "title": "Senior Director of Product Management",
+      "location": "",
+      "start_date": "02/2023",
+      "end_date": "05/2024",
+      "base_bullets": [
+        "Developed and deployed machine learning models to analyze customer behavior and enable personalized product experiences, improving engagement across Salesforce platforms",
+        "Built predictive models to identify key drivers of customer churn and engagement, enabling proactive retention strategies and reducing customer attrition risk",
+        "Led development of machine learning solutions to optimize marketing strategies, including segmentation and targeting, resulting in improved campaign performance and revenue outcomes",
+        "Conducted advanced statistical analysis to generate actionable insights, directly influencing product roadmap decisions and feature prioritization",
+        "Enhanced predictive performance by integrating structured and unstructured data sources into machine learning models, improving accuracy and robustness",
+        "Built scalable data pipelines to ingest, process, and analyze large-scale customer datasets, enabling near real-time analytics and decision-making",
+        "Collaborated with product and engineering teams to translate business requirements into data-driven solutions that informed product features and strategic initiatives",
+        "Developed and optimized feature engineering pipelines, improving model performance and enabling more scalable predictive analytics solutions",
+        "Implemented model monitoring and validation frameworks to detect drift, ensure reliability, and maintain long-term performance of production models",
+        "Leveraged big data technologies such as Apache Spark and distributed computing frameworks to process high-volume datasets efficiently and improve scalability",
+        "Led a cross-functional organization across Product, Design, QA, and Product Marketing, driving alignment from ideation through GTM.",
+        "Owned company-wide product vision and strategic execution in partnership with executive leadership.",
+        "Delivered multi-million dollar customer impact through AI-driven churn reduction and predictive analytics systems."
+      ]
+    },
+    {
+      "company": "involve.ai",
+      "title": "Director of Product",
+      "location": "",
+      "start_date": "11/2021",
+      "end_date": "01/2023",
+      "base_bullets": [
+        "Defined and led the execution of a comprehensive product strategy, resulting in a 50% increase in year-over-year company revenue by improving the customer lifecycle.",
+        "Built patent-pending ML models with over 75% churn prediction accuracy, significantly improving customer success outcomes for key enterprise clients.",
+        "Managed a team of 10+ across product and design, successfully implementing PLG strategies that increased customer retention by 20%.",
+        "Collaborated with sales and marketing teams to optimize user acquisition strategies, boosting qualified leads by 35%.",
+        "Launched a series of successful product enhancements that aligned with customer feedback and industry trends, strengthening the company's competitive positioning.",
+        "Fostered innovation within the team by introducing new methodologies and best practices for data-driven decision-making, contributing to a 25% increase in product delivery efficiency.",
+        "Established product success metrics and KPIs, tracking performance against goals and making data-driven recommendations for future product improvements.",
+        "Facilitated the transition to a more collaborative, cross-functional approach to product development, improving team engagement and productivity by 15%.",
+        "Led customer success programs to ensure product adoption and maximize value, increasing customer lifetime value (CLV) by 30%.",
+        "Developed a strong partnership with key stakeholders, aligning product development efforts with overarching business goals and customer needs.",
+        "Instituted a continuous feedback loop with sales, marketing, and support teams, ensuring customer insights were consistently integrated into the product roadmap.",
+        "Recognized by leadership for exceptional contributions to AI product development and customer impact."
+      ]
+    },
+    {
+      "company": "involve.ai",
+      "title": "Product Manager",
+      "location": "",
+      "start_date": "02/2019",
+      "end_date": "11/2021",
+      "base_bullets": [
+        "Managed end-to-end product development for a suite of innovative AI solutions, ensuring successful feature releases in an Agile environment.",
+        "Captured and analyzed customer needs, product scenarios, and stakeholder feedback to guide new feature development and improve existing product functionalities.",
+        "Collaborated with sales and marketing teams to understand market potential and competitive landscape, ensuring products were aligned with market demands.",
+        "Worked closely with design teams to create wireframes, design comps, and prototypes, ensuring seamless user experiences across all product interfaces.",
+        "Led product launches and feature rollouts, driving increased product adoption and reducing time-to-market by 15%.",
+        "Conducted product demos and presentations for clients, highlighting new features and aligning product capabilities with customer needs.",
+        "Developed and maintained detailed product roadmaps, ensuring on-time delivery of new features and updates.",
+        "Collaborated with the engineering team to ensure technical feasibility and timely resolution of product issues.",
+        "Managed product backlog, prioritizing tasks based on customer feedback, business goals, and technical constraints.",
+        "Supported post-launch activities, including customer training, support, and feedback collection, ensuring continuous product improvement.",
+        "Contributed to the creation of comprehensive product documentation, including user guides, release notes, and technical specifications.",
+        "Worked with cross-functional teams to align product development efforts with the overall strategic vision of the company.",
+        "Worked with APIs and integration workflows, enabling scalable product capabilities across enterprise systems."
+      ]
+    },
+    {
+      "company": "involve.ai",
+      "title": "Director Of Business Development",
+      "location": "",
+      "start_date": "09/2017",
+      "end_date": "01/2019",
+      "base_bullets": [
+        "Drove business revenue and expanded market share, generating $300K in revenue and securing a pipeline that grew by over $700K YoY.",
+        "Formulated and executed growth strategies with the CEO, identifying and onboarding 62 new client partnerships, which contributed to a substantial increase in company market reach.",
+        "Led a team of 5 across multiple geographies, managing client relationships and coordinating the development of a strategic project roadmap for business growth.",
+        "Developed and delivered comprehensive onboarding strategies and training materials, improving team efficiency and ensuring alignment with the company's long-term goals."
+      ]
+    },
+    {
+      "company": "General Assembly",
+      "title": "MBA Summer Intern",
+      "location": "",
+      "start_date": "06/2016",
+      "end_date": "08/2016",
+      "base_bullets": [
+        "Consulted on discount data modeling, analyzing discount offerings across 15 campuses and recommending a streamlined approach that led to improved conversion rates.",
+        "Played a key role in analyzing and optimizing discount strategies, accounting for $7 million in discounting revenues, and enabling the marketing team to make data-driven decisions.",
+        "Provided actionable insights to admission producers, marketing, and accounting teams, significantly improving the company's promotional strategy."
+      ]
+    },
+    {
+      "company": "Illinois Business Consulting",
+      "title": "Senior Consultant",
+      "location": "",
+      "start_date": "09/2015",
+      "end_date": "05/2016",
+      "base_bullets": [
+        "Consulted with a mid-size food cooperative on growing their sales, bettering price image, and increasing their reach in the community.",
+        "Created a customer survey through Qualtrics software as well as in-person and telephonically to assess the feedback and suggestions of the co-op's owners.",
+        "Analyzed the data from over 500 responses received through the survey to provide recommendations on the customer demographics, pricing structure and marketing.",
+        "Created an elaborate Business Plan for the client and gave a final presentation which led to the next implementation stage of the go-to-market strategy.",
+        "Worked as a Consultant with the Global Consulting Program (GCP) for a leading cloud-services provider/ IT management firm based in Johannesburg and Cape Town, South Africa.",
+        "Consulted on marketing strategies across functions & geographies to target larger clients and increment revenue for the organization.",
+        "Examined future potential of South African cloud computing industry and conducted weekly market research for cohesive reporting of analyzed data to the client and senior management.",
+        "Developed an elaborate business plan to market cloud services to local companies and made recommendations on key sales and marketing decisions.",
+        "Conducted intensive market research on competitors to determine effective market penetration techniques."
+      ]
+    },
+    {
+      "company": "Accenture",
+      "title": "Technology Consultant",
+      "location": "",
+      "start_date": "02/2013",
+      "end_date": "08/2014",
+      "base_bullets": [
+        "Designed re-usable components (methods, functions, modules) for Telecom client reducing the delivery time of technical components by 60%.",
+        "Handled 150 deliverables and 5 modules over 1.6 years for end-to-end BI implementation.",
+        "Oversaw and monitored daily efforts locally and then held touch point meetings in sync to provide project reports to the client team, gather business requirements, define project scope and technical deliverables.",
+        "Mentored 5 new hires by training them on technologies and best practices used in the project, managing smooth transition into their roles in the team thus ensuring time savings of 10%.",
+        "Designed a Data-Exchange tool to auto-load data from files into the table thereby saving 10% time in object build.",
+        "Wrote 2 technical specifications over a period of 6 months. Received the Accenture Stellar award for flawless on-time delivery.",
+        "Coordinated multiple phases of 15 different projects from design to release; exceeded client Service Level Agreement with 100% on-time delivery and received Accenture Spot Award."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration (M.B.A.), Management and Strategy",
+      "school": "Gies College of Business - University of Illinois Urbana-Champaign",
+      "start_year": "2015",
+      "end_year": "2017"
+    }
+  ]
+}

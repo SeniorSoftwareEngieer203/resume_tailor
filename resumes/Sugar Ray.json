@@ -1,0 +1,80 @@
+{
+  "name": "Sugar Ray Ledesma",
+  "title": "Senior Full Stack Engineer | Python, Django, Node.js | React, Next.js, TypeScript | AWS",
+  "email": "sugarledesma2000@gmail.com",
+  "phone": "",
+  "location": "Taguig City, Philippines",
+  "zip": "",
+  "linkedin": "https://www.linkedin.com/in/sugar-ray-ledesma-b880a83a9",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [
+    "Backend Engineering: Python, Django, Django REST Framework, Node.js, Express.js, REST API Architecture, GraphQL APIs, Microservices Design, API Security",
+    "Frontend Engineering: React.js, Next.js, TypeScript, JavaScript (ES6+), Redux, Tailwind CSS, Responsive UI Architecture, Component-Based Design Systems",
+    "Database Engineering: PostgreSQL, MySQL, MongoDB, Schema Design, Query Optimization, Indexing Strategies, Data Modeling",
+    "Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, CI/CD Pipelines, GitHub Actions, Infrastructure Automation",
+    "Asynchronous & Distributed Systems: Celery, Redis, Event-Driven Architecture, Background Jobs, Task Queues",
+    "Security & Reliability: OAuth 2.0, JWT Authentication, Access Control Architecture, Application Security, Monitoring",
+    "Testing & Engineering Practices: Unit Testing, Integration Testing, Jest, Cypress, Debugging, Agile/Scrum"
+  ],
+  "experience": [
+    {
+      "company": "Upwork",
+      "title": "Senior Full Stack Engineer | Cloud & API Platforms",
+      "location": "Remote / Global Clients",
+      "start_date": "05/2025",
+      "end_date": "Present",
+      "base_bullets": [
+        "Designed and deployed scalable REST and GraphQL APIs using Node.js, Express.js, and modular service architecture supporting high-traffic SaaS platforms.",
+        "Built production frontend platforms using React, Next.js, TypeScript, and Redux, enabling responsive and high-performance user interfaces.",
+        "Implemented asynchronous processing pipelines and event-driven workflows, improving system responsiveness for background tasks and data processing.",
+        "Architected optimized PostgreSQL and MongoDB database structures, improving query performance and reducing API latency.",
+        "Implemented secure authentication and access control systems using JWT and OAuth 2.0, strengthening application security and user management.",
+        "Deployed scalable services on AWS infrastructure (EC2, S3, RDS, Lambda), ensuring high availability and reliability.",
+        "Implemented containerized infrastructure using Docker and Kubernetes, enabling reproducible environments and scalable deployments.",
+        "Built automated CI/CD pipelines with GitHub Actions, enabling faster release cycles and reliable production deployments.",
+        "Implemented comprehensive testing strategies using Jest and Cypress, improving code quality and reducing regression risks."
+      ]
+    },
+    {
+      "company": "BluePeak Software Solutions",
+      "title": "Backend Software Engineer | Cloud Services & API Systems",
+      "location": "Makati City, Philippines",
+      "start_date": "01/2023",
+      "end_date": "04/2025",
+      "base_bullets": [
+        "Designed scalable backend services using Node.js, Express.js, and GraphQL APIs supporting distributed enterprise systems.",
+        "Engineered secure authentication frameworks using OAuth 2.0 and JWT, enabling robust access control across microservices.",
+        "Optimized PostgreSQL and MongoDB database performance through indexing strategies, query optimization, and schema restructuring.",
+        "Implemented resilient backend architectures deployed on AWS cloud infrastructure (Lambda, EC2, S3).",
+        "Built containerized deployment pipelines using Docker, improving environment consistency and deployment reliability.",
+        "Defined API contracts and integration standards enabling smooth communication between frontend services and backend systems.",
+        "Collaborated with product and engineering teams to deliver scalable backend architectures aligned with long-term platform growth.",
+        "Investigated and resolved production performance issues, ensuring system reliability and operational stability."
+      ]
+    },
+    {
+      "company": "Nexora Digital Labs",
+      "title": "Frontend Software Engineer | Web Platforms",
+      "location": "Taguig City, Philippines",
+      "start_date": "01/2019",
+      "end_date": "12/2022",
+      "base_bullets": [
+        "Developed high-performance user interfaces using React, Vue.js, JavaScript (ES6+), HTML5, CSS3, and Material UI, improving usability and visual consistency across enterprise applications.",
+        "Built dynamic analytics dashboards that streamlined internal operations and enhanced business decision-making through clearer data visualization.",
+        "Refactored legacy UI components into scalable, modular, reusable architectures, reducing technical debt and improving long-term maintainability.",
+        "Integrated frontend systems with Node.js APIs and Firebase services, enabling secure data exchange and real-time application functionality.",
+        "Supported AWS-hosted deployment environments and CI/CD workflows, building strong foundational DevOps capabilities and release discipline."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "school": "Taguig City University",
+      "start_year": "06/2017",
+      "end_year": "04/2021"
+    }
+  ]
+}

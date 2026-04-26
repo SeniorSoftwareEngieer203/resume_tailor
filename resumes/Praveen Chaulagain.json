@@ -1,0 +1,121 @@
+{
+  "name": "Praveen Chaulagain",
+  "title": "Senior Data Engineer",
+  "email": "praveenchaulagain@proton.me",
+  "phone": "(360) 548-1455",
+  "location": "Justin, TX",
+  "zip": "76247",
+  "linkedin": "https://www.linkedin.com/in/praveen-chaulagain-850266273/",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [
+    "Languages and Frameworks: Python, Java, Go, Scala, SQL, R, Shell scripting (Bash), Perl, Next.js, React, PySpark, Apache Spark, Apache Flume, Apache NiFi, Scikit-learn, TensorFlow, Keras, XGBoost, LightGBM, Random Forest, Neural Networks",
+    "Cloud Platforms: AWS (Glue, EMR, Lambda, S3, Redshift, CloudFormation, API Gateway), Azure (Databricks, SQL Database, Data Lake, Blob Storage), GCP (BigQuery, Dataflow, Pub/Sub, Cloud Functions)",
+    "Databases and Data Warehousing: MySQL, PostgreSQL, SQL Server, Redshift, Google BigQuery, Amazon Aurora, CosmosDB, Neo4j, Dimensional Modeling, ER Modeling, Star Schema, Snowflake Schema, Data Vault, Kimball methodology",
+    "Data Engineering and Pipelines: AWS Glue, Apache Airflow, Snowflake, Talend, Informatica, Prefect, Kafka, Kinesis, Spark Streaming, Amazon Kinesis, AWS Data Pipeline, Google Cloud Dataflow, Apache Beam, AWS Lambda, Azure Functions",
+    "DevOps and CI/CD: Docker, Kubernetes, Jenkins, Git, GitHub, GitLab, Terraform, CloudFormation, Ansible, Puppet, Chef",
+    "Data Visualization and BI Tools: Tableau, Power BI, Apache Superset, Looker, D3.js, QlikView, SAP BusinessObjects, MicroStrategy",
+    "Data Governance and Security: Data Quality (Validation, Cleansing, Profiling), Data Lineage, IAM, Encryption, Data Masking, SFTP, Files.com, APIs",
+    "Optimization and Performance Tuning: Query Optimization (SQL, Spark), Data Indexing, Cost Optimization (AWS, GCP, Azure)",
+    "Testing and Quality Assurance: Unit Testing, PyTest, JUnit, Test Automation (PyTest, JUnit), Data Validation Tools (Great Expectations)",
+    "Specialized Expertise: Salesforce (APIs, batch ingestion pipelines for Salesforce data), Healthcare Data (FHIR APIs, HL7v2, ICD-10, SNOMED CT, LOINC, RxNorm), RAG Infrastructure (Building and scaling RAG infrastructure for AI-powered applications), Gremlin (Proficiency in Gremlin for querying graph databases), Web Scraping (Social media web scraping in production environments), dbt (dbt Labs: Production experience with dbt Labs, building models and documenting Snowflake data models)"
+  ],
+  "experience": [
+    {
+      "company": "NaviHealth",
+      "title": "Data Engineer",
+      "location": "",
+      "start_date": "2021",
+      "end_date": "2026",
+      "base_bullets": [
+        "Designed, developed, and optimized robust ETL pipelines leveraging AWS Glue, EMR, and Lambda, ensuring high throughput and optimized data flow, leading to significant reductions in processing time while improving overall system performance and reliability.",
+        "Integrated real-time data streams using Apache Kafka and Spark Streaming, enabling businesses to access live insights that accelerated decision-making for time-sensitive operations, greatly enhancing business agility.",
+        "Led the migration of extensive legacy data to Snowflake, optimizing data accessibility and storage, while reducing operational downtime and improving the efficiency of query execution.",
+        "Architected and implemented advanced data lakehouse solutions using Azure Data Lake and Azure Databricks, combining batch and streaming data workflows to support comprehensive analytics and data modeling capabilities.",
+        "Built and automated data validation processes within AWS Glue to guarantee that data was consistently cleaned, transformed, and structured properly before being passed to downstream systems, reducing data errors and improving overall data quality.",
+        "Utilized Prefect and Apache Airflow to orchestrate complex data pipelines, introducing advanced monitoring, failure recovery, and automated retries, thereby enhancing operational resilience and pipeline reliability across multiple data workflows.",
+        "Integrated external APIs and utilized secure data transfer methods such as SFTP to enable seamless and compliant data ingestion, protecting sensitive healthcare data throughout the pipeline while ensuring compliance with strict regulatory standards.",
+        "Optimized data retention policies with custom Python scripts, effectively reducing cloud storage costs by intelligently managing data lifecycle and retention, ensuring compliance with industry regulations.",
+        "Designed and implemented efficient automated data purging processes to optimize storage resources, minimizing unnecessary overhead while ensuring compliance with organizational and regulatory data retention policies.",
+        "Enhanced data models in Snowflake using dbt, streamlining transformation processes and ensuring more accurate and timely reporting, driving actionable insights and improved decision-making across business functions.",
+        "Led the scaling of social media web scraping infrastructure to collect large datasets and extract valuable insights for targeted customer segmentation and marketing strategies, enhancing data-driven decision-making.",
+        "Developed and implemented comprehensive monitoring and logging solutions using CloudWatch and Azure Monitoring, proactively identifying system bottlenecks and optimizing the performance and reliability of production systems."
+      ]
+    },
+    {
+      "company": "T. Rowe Price",
+      "title": "Data Engineer",
+      "location": "",
+      "start_date": "2020",
+      "end_date": "2021",
+      "base_bullets": [
+        "Engineered and optimized PySpark-based ETL pipelines in AWS Glue, facilitating the efficient transformation and processing of large-scale financial data, ensuring timely availability of high-quality data for business analysis.",
+        "Integrated real-time financial data using Apache Kafka and Spark Streaming, enhancing reporting capabilities and delivering actionable, up-to-the-minute insights to executives, improving overall financial decision-making processes.",
+        "Spearheaded the migration of on-premises databases to AWS Redshift, optimizing storage strategies and significantly improving query performance and cost-efficiency, enabling faster data retrieval for critical financial reporting.",
+        "Automated complex ETL workflows with Apache Airflow, streamlining operations and reducing manual intervention, while improving pipeline reliability, transparency, and traceability for end-to-end data processes.",
+        "Enhanced the effectiveness of business intelligence solutions by developing Tableau dashboards that provided real-time financial performance metrics, empowering stakeholders to make informed, data-driven decisions.",
+        "Secured sensitive financial data by implementing robust encryption protocols using Python, ensuring compliance with regulatory standards and protecting confidential information from potential threats.",
+        "Refined and optimized SQL queries for financial reporting systems, increasing the speed of data retrieval and reducing processing delays, providing faster insights to support strategic business decisions.",
+        "Designed and deployed batch ingestion pipelines for Salesforce data, automating the process of data extraction and transformation, improving the accuracy and timeliness of reporting and ensuring that stakeholders had access to reliable, up-to-date information."
+      ]
+    },
+    {
+      "company": "Lifetouch",
+      "title": "Data Engineer AWS",
+      "location": "",
+      "start_date": "2020",
+      "end_date": "2020",
+      "base_bullets": [
+        "Built end-to-end automated ETL pipelines using AWS Lambda, Apache Airflow, and Docker, significantly improving data flow processing efficiency and reducing manual interventions across multiple stages of the data pipeline.",
+        "Optimized legacy workflows using AWS Glue and Snowflake, implementing best practices for data transformation and load times, increasing overall system efficiency and reducing operational overhead.",
+        "Delivered real-time business intelligence capabilities through Power BI and Tableau dashboards, providing teams with data-driven insights that facilitated faster decision-making and enhanced operational performance.",
+        "Integrated machine learning models into ETL workflows, enabling predictive analytics to forecast trends and optimize resource planning, allowing the business to stay ahead of potential market shifts.",
+        "Developed robust data validation processes to ensure clean, high-quality data was consistently fed into business intelligence systems, boosting the reliability and accuracy of reports and insights used by business leaders.",
+        "Adopted Agile methodologies, working in sprints to efficiently iterate on data solutions, significantly reducing the cycle time for deploying new data pipeline features and ensuring that solutions were aligned with evolving business requirements.",
+        "Enhanced data transformation logic using dbt, streamlining the process of building, testing, and deploying models to Snowflake, ensuring data transformation was consistent and error-free."
+      ]
+    },
+    {
+      "company": "Essilor Group",
+      "title": "Data Engineer",
+      "location": "",
+      "start_date": "2017",
+      "end_date": "2019",
+      "base_bullets": [
+        "Designed, developed, and maintained highly scalable ETL pipelines using AWS Glue, Python, and SQL, automating complex data extraction, transformation, and loading processes, significantly improving the availability and accuracy of reporting data.",
+        "Led the integration of Apache Airflow for orchestrating both batch and real-time data workflows, greatly enhancing pipeline reliability, improving system visibility, and reducing the need for manual interventions.",
+        "Refined SQL queries and optimized Redshift data models, improving performance and scalability, enabling faster and more efficient data access for business intelligence teams and significantly improving overall operational efficiency.",
+        "Collaborated closely with data scientists to integrate advanced machine learning models within data pipelines, enabling predictive analytics that improved demand forecasting and optimized resource allocation for production teams.",
+        "Developed and maintained Snowflake data models using dbt, automating the data transformation process and ensuring that data was consistent, reliable, and available in a timely manner for reporting and analysis.",
+        "Implemented comprehensive data quality validation checks and data governance practices across all data pipelines, ensuring that incoming data met high-quality standards and aligning with organizational data management policies.",
+        "Developed and deployed real-time reporting solutions using Power BI, creating interactive dashboards that provided senior executives with actionable insights into KPIs and business performance metrics.",
+        "Optimized storage strategies in Amazon S3, applying best practices for data partitioning and lifecycle management, which led to significant cost savings and faster data access.",
+        "Built and deployed data integration solutions for external APIs, enhancing the efficiency and effectiveness of cross-system data exchange, streamlining operations, and improving decision-making across the organization.",
+        "Led performance tuning efforts for Hadoop and other big data technologies, ensuring large datasets were processed quickly and reliably, supporting the timely delivery of critical business reports."
+      ]
+    },
+    {
+      "company": "Essilor Group",
+      "title": "Data Engineer",
+      "location": "",
+      "start_date": "2016",
+      "end_date": "2016",
+      "base_bullets": [
+        "Developed scalable data pipelines using Azure Databricks and PySpark, streamlining data processing and enabling large-scale transformations to improve data availability and reporting accuracy.",
+        "Automated key data workflows with SQL and Power BI, enhancing real-time access to critical business insights and providing executive teams with the data they needed for informed decision-making.",
+        "Strengthened data integrity by implementing rigorous data validation and cleansing techniques across multiple systems, ensuring data quality remained high throughout the pipeline.",
+        "Delivered custom reporting solutions in collaboration with cross-functional teams, ensuring that data reports met business needs and helped drive operational improvements.",
+        "Created and optimized data transformation workflows using SQL and Power BI, improving data availability and ensuring reports remained up-to-date and aligned with the organization's evolving needs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's degree, Business Analytics",
+      "school": "University of North Texas",
+      "start_year": "",
+      "end_year": ""
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Hasan Khan",
+  "title": "ML Engineer",
+  "email": "hasankhan7@proton.me",
+  "phone": "(360) 548-1455",
+  "location": "Midlothian, VA",
+  "zip": "23112",
+  "linkedin": "https://www.linkedin.com/in/hk4cd/",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [
+    "Machine Learning & AI Technologies: Keras, TensorFlow, PyTorch, Theano, Caffe, MXNet, Fast.ai, Hugging Face Transformers, Scikit-learn, XGBoost, LightGBM, CatBoost, H2O.ai, Statsmodels, TPOT, Auto-sklearn, PyCaret, Scikit-Image, Feature-engine",
+    "Natural Language Processing (NLP): NLTK, SpaCy, Gensim, TextBlob, AllenNLP, OpenNLP, Tesseract, Hugging Face Transformers, BERT, GPT, T5, DistilBERT, LIME, SHAP, ELI5, Captum",
+    "Deep Learning & Neural Networks: CNN, RNN, LSTM, GANs, VAEs, CycleGAN, Pix2Pix, YOLO, Detectron2, TensorFlow Object Detection API",
+    "Reinforcement Learning: Stable-Baselines3, Ray RLLib, OpenAI Gym, TensorFlow Agents",
+    "Big Data & Distributed Computing: Apache Spark, Dask, Hadoop, Apache Kafka, Ray, PySpark, BigQuery",
+    "Data Science & Analytics: Pandas, NumPy, Vaex, Prophet, ARIMA, fbprophet, t-SNE, UMAP, PCA, LDA, K-means, DBSCAN, Agglomerative Clustering",
+    "Model Deployment & MLOps: MLflow, TensorFlow Serving, ONNX, Flask, FastAPI, Docker, Kubernetes, Apache Airflow, Luigi, Dagster, Talend, Apache NiFi, Jenkins, GitLab CI/CD, Kubeflow, Pachyderm, DVC (Data Version Control), Terraform",
+    "Cloud Platforms & Services: AWS (S3, EC2, SageMaker, Lambda), Microsoft Azure, Google Cloud Platform, IBM Watson",
+    "Programming Languages: Python, Java, C++, Ada, HTML, JavaScript, SQL",
+    "Version Control & Development Tools: Git, GitHub, Bitbucket, Jupyter, PyCharm, Visual Studio Code",
+    "Data Visualization: Plotly, Bokeh, Dash, Matplotlib, Seaborn, Altair, ggplot2"
+  ],
+  "experience": [
+    {
+      "company": "Healthcare Risk Advisors",
+      "title": "ML Engineer",
+      "location": "",
+      "start_date": "06/2023",
+      "end_date": "04/2026",
+      "base_bullets": [
+        "Spearheaded the end-to-end design, development, and production deployment of Retrieval-Augmented Generation (RAG) systems, enabling automated extraction and retrieval of complex medical claims data while reducing manual processing effort by hundreds of hours each month.",
+        "Fine-tuned and optimized large language models (LLMs) on domain-specific healthcare datasets, significantly improving classification accuracy, entity extraction precision, and downstream risk analysis capabilities across multiple operational workflows.",
+        "Engineered, curated, and validated high-quality training datasets for LLMs by implementing scalable data labeling methodologies, annotation workflows, and quality assurance processes to ensure robust supervised learning performance in production environments.",
+        "Built and deployed API-driven data annotation pipelines and active learning feedback loops, enabling continuous model improvement while reducing manual labeling overhead and accelerating iteration cycles for machine learning systems.",
+        "Architected and implemented scalable, fault-tolerant ETL pipelines using Azure Databricks, processing large volumes of structured and unstructured healthcare data to support machine learning training, analytics, and reporting use cases.",
+        "Led the migration of legacy data infrastructure and workflows to modern Databricks-based platforms, improving data processing scalability, reducing latency, and enhancing maintainability across enterprise data systems.",
+        "Integrated Databricks-based data pipelines with business intelligence and reporting platforms, enabling near real-time visibility into claims processing trends, operational metrics, and model-driven insights for stakeholders.",
+        "Designed, developed, and deployed production-grade machine learning systems to automate claims processing workflows, significantly improving decision latency, operational throughput, and overall system reliability in high-volume environments.",
+        "Built AI-powered conversational agents and intelligent chatbots to automate data retrieval, form-filling, and user interactions, reducing manual errors while increasing productivity and operational efficiency across claims processing teams.",
+        "Applied advanced natural language processing techniques, including transformer-based architectures such as BERT and GPT, to convert unstructured medical text into structured, model-ready representations for downstream machine learning applications.",
+        "Implemented reinforcement learning-based optimization strategies to continuously improve decision-making policies in claims handling workflows, enabling adaptive systems that evolve based on real-time operational feedback and performance signals.",
+        "Developed and deployed cloud-native machine learning solutions on Microsoft Azure, ensuring scalability, security, and cost efficiency while leveraging managed services for data storage, compute, and model serving.",
+        "Built and maintained real-time monitoring dashboards to track model performance, detect data drift, and visualize key operational metrics, enabling proactive intervention and continuous system optimization.",
+        "Ensured strict HIPAA compliance across all data pipelines and machine learning systems by implementing encryption, access controls, audit logging, and governance frameworks to protect sensitive healthcare information.",
+        "Improved model interpretability and transparency by implementing explainability techniques such as SHAP and LIME, enabling stakeholders to understand, trust, and effectively utilize machine learning predictions in decision-making processes.",
+        "Automated model retraining workflows and CI/CD pipelines, enabling continuous integration and delivery of updated machine learning models while reducing manual intervention and improving deployment consistency.",
+        "Led troubleshooting and optimization efforts for deployed machine learning systems, proactively identifying and resolving issues such as data drift, performance degradation, and system bottlenecks in production environments.",
+        "Established robust model versioning and experiment tracking frameworks using MLflow, ensuring reproducibility, governance, and traceability across the entire machine learning lifecycle.",
+        "Collaborated closely with cross-functional stakeholders, including engineering, product, and business teams, to align machine learning solutions with organizational objectives and maximize business impact.",
+        "Designed and implemented closed-loop feedback systems that incorporated real-world user interactions and performance data into continuous model improvement pipelines, enhancing system adaptability and accuracy over time.",
+        "Defined and led enterprise-wide AI architecture strategy across generative AI, search, recommendation, and agentic AI systems, ensuring alignment with long-term business goals and emerging technology trends.",
+        "Delivered advanced Azure-based generative AI and agentic AI solutions using Azure OpenAI, Azure AI Foundry, and related services to enable intelligent automation and decision support across business workflows.",
+        "Built autonomous agent-based workflows using LangChain and LangGraph, enabling complex reasoning, planning, and orchestration capabilities across multi-step processes and enterprise systems.",
+        "Established and enforced best practices for prompt engineering, model evaluation, monitoring, and responsible AI governance to ensure ethical, effective, and scalable deployment of AI technologies."
+      ]
+    },
+    {
+      "company": "LMI",
+      "title": "Data Scientist, Senior Analyst",
+      "location": "",
+      "start_date": "10/2018",
+      "end_date": "04/2021",
+      "base_bullets": [
+        "Developed and deployed advanced natural language processing models using BERT to analyze large-scale employee feedback datasets for NASA, enabling automated sentiment analysis and extraction of actionable insights to improve organizational decision-making.",
+        "Built and optimized predictive regression models for the Defense Logistics Agency, improving forecasting accuracy for rare inventory items and enabling more efficient supply chain operations and cost-saving strategies.",
+        "Designed and implemented scalable, end-to-end machine learning pipelines that automated data preprocessing, feature engineering, model training, and evaluation, significantly reducing time-to-deployment and improving system reliability.",
+        "Conducted in-depth exploratory data analysis using tools such as Pandas, Matplotlib, and Seaborn to identify trends, correlations, and anomalies that informed strategic and operational improvements.",
+        "Deployed machine learning models within AWS cloud environments, ensuring seamless integration with federal IT systems and enabling scalable processing of large and complex datasets.",
+        "Improved model performance and robustness through rigorous hyperparameter tuning, cross-validation, and experimentation, resulting in more accurate and reliable predictions across multiple use cases.",
+        "Collaborated with cross-functional teams to integrate machine learning models into production systems, enabling automated workflows and real-time decision-making capabilities within government operations.",
+        "Developed and maintained interactive, real-time dashboards using Dash and Shiny, allowing stakeholders to explore key performance indicators and derive actionable insights from machine learning outputs.",
+        "Engineered high-performance data pipelines and ETL workflows to ingest, transform, and process large-scale datasets from multiple sources, ensuring data quality, consistency, and availability for downstream applications.",
+        "Applied advanced social text mining techniques to extract patterns, sentiment, and behavioral insights from large volumes of textual data, supporting analytics and decision-making initiatives.",
+        "Leveraged data visualization and storytelling techniques to communicate complex analytical results effectively to both technical and non-technical stakeholders, improving understanding and adoption of insights.",
+        "Utilized cloud computing platforms such as AWS and Azure to scale machine learning and analytics workloads, ensuring high availability and performance for large-scale projects.",
+        "Collaborated on continuous model improvement initiatives by incorporating stakeholder feedback and real-world performance data into iterative development and optimization cycles.",
+        "Designed and developed dynamic, responsive user interfaces using AngularJS and modern JavaScript frameworks, enhancing user interaction with machine learning systems and analytical tools.",
+        "Automated internal workflows and system integrations using Google AppScript, improving operational efficiency, reducing manual effort, and enhancing collaboration across teams."
+      ]
+    },
+    {
+      "company": "University of Virginia",
+      "title": "Research Assistant, Meliza Auditory Cognition Lab",
+      "location": "",
+      "start_date": "03/2016",
+      "end_date": "07/2018",
+      "base_bullets": [
+        "Developed computational models of auditory cognition using recursive Bayesian filtering techniques, enabling estimation of biophysical parameters and advancing research in neural signal processing and sensory systems.",
+        "Built simulation frameworks in Python to model auditory system responses, contributing to a deeper understanding of neural processing mechanisms and auditory perception in biological systems.",
+        "Applied machine learning algorithms to classify auditory neurons based on ion channel composition, providing novel insights into neural behavior and computational neuroscience research.",
+        "Designed and executed controlled experiments to validate computational hypotheses, ensuring high-quality data collection and reliable results for downstream modeling and analysis.",
+        "Utilized MATLAB extensively for signal processing, statistical analysis, and computational modeling of auditory data, supporting research efforts and improving analytical accuracy.",
+        "Developed custom data visualization tools to interpret complex neural datasets, enabling researchers to better understand patterns and refine computational models.",
+        "Managed, curated, and maintained large experimental datasets, ensuring data integrity, accessibility, and reproducibility for ongoing and future research initiatives."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's Degree in Computer Science",
+      "school": "New York University",
+      "start_year": "2021",
+      "end_year": "2023"
+    },
+    {
+      "degree": "Bachelor of Arts, Computer Science & Cognitive Science",
+      "school": "University of Virginia",
+      "start_year": "2014",
+      "end_year": "2018"
+    }
+  ]
+}

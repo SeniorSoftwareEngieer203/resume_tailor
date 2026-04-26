@@ -1,0 +1,88 @@
+{
+  "name": "Ariel Berjit",
+  "title": "Senior Full Stack Engineer",
+  "email": "berjitariel342@gmail.com",
+  "phone": "",
+  "location": "Bacolod City, Philippines",
+  "zip": "",
+  "linkedin": "https://www.linkedin.com/in/ariel-berjit-78232a403/",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [
+    "Frontend Engineering: React (Hooks, Context, Performance Optimization), TypeScript, JavaScript (ES6+), Vue.js, Next.js, HTML5, CSS3, Responsive UI Architecture, State Management & Async Data Handling",
+    "Backend Engineering: Node.js, NestJS, Python (Django), Java (Spring Boot), RESTful API Architecture, Microservices Architecture, Event-Driven Systems, Background Workers & Async Processing",
+    "Databases & Data Systems: PostgreSQL (Advanced), Relational Schema Design, Query Optimization & Indexing, Transaction Management, Redis Caching",
+    "Cloud & DevOps: AWS (EC2, ECS, RDS, S3, Lambda), Docker, CI/CD Pipelines (GitHub Actions), Cloud Infrastructure Automation, Monitoring & Logging",
+    "AI & Emerging Technologies: LLM API Integrations, AI-assisted workflows, AI automation pipelines, Prompt engineering for product features",
+    "Engineering Practices: System Architecture & Design, Code Reviews & Engineering Standards, Automated Testing, Agile/Scrum Development, Production Debugging & Incident Response",
+    "Architecture Leadership: Technical roadmaps, architectural reviews, engineering mentorship"
+  ],
+  "experience": [
+    {
+      "company": "Apex Fintech Solutions",
+      "title": "Senior Full Stack Engineer",
+      "location": "Remote",
+      "start_date": "10/2022",
+      "end_date": "02/2026",
+      "base_bullets": [
+        "Architected and implemented end-to-end full-stack platforms using React, Next.js, TypeScript, Node.js (NestJS), and PostgreSQL supporting complex analytics dashboards and product automation tools.",
+        "Developed high-performance React and TypeScript interfaces with reusable component architecture and performance optimizations for data-intensive applications.",
+        "Built scalable backend services using Node.js and NestJS, designing modular microservice architectures and well-structured API contracts.",
+        "Implemented Vue.js UI modules for dynamic visualization features and interactive dashboard components.",
+        "Designed and maintained RESTful APIs and service integrations supporting internal systems and third-party platforms.",
+        "Integrated LLM-based AI features for automated data classification, intelligent search, and workflow automation using external AI APIs.",
+        "Designed optimized PostgreSQL schemas and indexing strategies, improving database performance by 40% under high-concurrency workloads.",
+        "Implemented Redis caching layers and background worker systems for asynchronous job processing and event-driven workflows.",
+        "Containerized applications using Docker and deployed microservices to AWS ECS with automated CI/CD pipelines via GitHub Actions.",
+        "Collaborated closely with product managers and designers to translate complex requirements into scalable technical solutions.",
+        "Led architecture discussions, code reviews, and engineering best practices, improving maintainability and system scalability.",
+        "Improved production reliability through enhanced monitoring, logging, and observability strategies."
+      ]
+    },
+    {
+      "company": "Endava",
+      "title": "Senior Full Stack Engineer",
+      "location": "Singapore",
+      "start_date": "07/2020",
+      "end_date": "08/2022",
+      "base_bullets": [
+        "Built full-stack platforms using React, Next.js, TypeScript, Node.js, and PostgreSQL to support financial analytics and reporting systems.",
+        "Developed React-based dashboards and visualization interfaces enabling real-time financial data analysis.",
+        "Designed scalable Node.js backend services and REST APIs handling high-volume ingestion from external financial data providers.",
+        "Implemented backend services using Python (Django) for data processing pipelines and internal automation tools.",
+        "Designed relational data models supporting millions of records, implementing indexing and query optimization strategies.",
+        "Developed asynchronous data ingestion pipelines and background job processing systems.",
+        "Improved API response latency by 35% through database optimization, caching strategies, and query refactoring.",
+        "Containerized applications using Docker and deployed to AWS infrastructure with automated CI/CD pipelines.",
+        "Worked closely with product and data teams to deliver scalable analytics capabilities."
+      ]
+    },
+    {
+      "company": "Thoughtworks",
+      "title": "Full Stack Engineer",
+      "location": "Singapore",
+      "start_date": "09/2015",
+      "end_date": "07/2020",
+      "base_bullets": [
+        "Built responsive web applications using JavaScript, React, and modern frontend frameworks.",
+        "Implemented backend services using Java (Spring Boot) and RESTful APIs supporting enterprise applications and reporting systems.",
+        "Developed backend services using Node.js for lightweight API services and integrations.",
+        "Designed relational database schemas and optimized SQL queries for transactional and reporting workloads.",
+        "Built reusable UI components and responsive layouts improving application usability and maintainability.",
+        "Integrated internal platforms with external enterprise systems through API-based integrations.",
+        "Assisted in migrating legacy systems to cloud-based infrastructure environments.",
+        "Contributed to CI/CD automation and deployment pipelines, improving release reliability and development efficiency.",
+        "Supported debugging and performance optimization across distributed application environments."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "school": "Singapore Institute of Technology (SIT)",
+      "start_year": "08/2012",
+      "end_year": "07/2015"
+    }
+  ]
+}

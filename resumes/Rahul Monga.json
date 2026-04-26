@@ -1,0 +1,109 @@
+{
+  "name": "Rahul Sushank Monga",
+  "title": "Senior Software Engineer - Tech Lead",
+  "email": "rahulmonga113@gmail.com",
+  "phone": "+1 906 999 9785",
+  "location": "Austin, TX",
+  "zip": "78704",
+  "linkedin": "https://www.linkedin.com/in/rahulm5000",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [],
+  "experience": [
+    {
+      "company": "Dropbox",
+      "title": "Senior Software Engineer - Tech Lead",
+      "location": "",
+      "start_date": "06/2022",
+      "end_date": "03/2026",
+      "base_bullets": [
+        ""
+      ]
+    },
+    {
+      "company": "Rapid7",
+      "title": "Principal Software Engineer",
+      "location": "",
+      "start_date": "01/2018",
+      "end_date": "05/2022",
+      "base_bullets": [
+        ""
+      ]
+    },
+    {
+      "company": "Optoro",
+      "title": "Lead Software Engineer",
+      "location": "",
+      "start_date": "08/2016",
+      "end_date": "01/2018",
+      "base_bullets": [
+        ""
+      ]
+    },
+    {
+      "company": "Wedding Wire",
+      "title": "Senior Software Engineer",
+      "location": "",
+      "start_date": "09/2013",
+      "end_date": "08/2016",
+      "base_bullets": [
+        ""
+      ]
+    },
+    {
+      "company": "IBM",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "06/2012",
+      "end_date": "09/2013",
+      "base_bullets": [
+        ""
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "title": "Full Stack Engineer",
+      "location": "",
+      "start_date": "06/2011",
+      "end_date": "06/2012",
+      "base_bullets": [
+        ""
+      ]
+    },
+    {
+      "company": "NCR",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "06/2010",
+      "end_date": "08/2010",
+      "base_bullets": [
+        ""
+      ]
+    },
+    {
+      "company": "NIST",
+      "title": "Full Stack Engineer",
+      "location": "",
+      "start_date": "08/2007",
+      "end_date": "08/2009",
+      "base_bullets": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science (MS), Computer Science",
+      "school": "The Johns Hopkins University",
+      "start_year": "2013",
+      "end_year": "2014"
+    },
+    {
+      "degree": "Bachelor of Science (BS), Computer Science",
+      "school": "University of Maryland College Park",
+      "start_year": "2008",
+      "end_year": "2011"
+    }
+  ]
+}

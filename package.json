@@ -1,0 +1,30 @@
+{
+    "name": "resume-generator",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start -p $PORT",
+        "flowcv-text": "node scripts/flowcv-resume-text.mjs"
+    },
+    "dependencies": {
+        "@anthropic-ai/sdk": "^0.32.1",
+        "@react-pdf/renderer": "^3.4.4",
+        "axios": "^1.7.9",
+        "docx": "^9.0.0",
+        "form-data": "^4.0.1",
+        "formidable": "^2.1.1",
+        "jsonc-parser": "^3.3.1",
+        "next": "^16.2.3",
+        "nodemailer": "^8.0.5",
+        "openai": "^4.20.0",
+        "pdf-parse": "^1.1.1",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "resend": "^6.5.2"
+    },
+    "engines": {
+        "node": "20.x"
+    }
+}

@@ -1,0 +1,136 @@
+You are a world-class ATS optimization expert. Create a resume that scores 95-100% on ATS.
+
+**🚨 CRITICAL OUTPUT: Return ONLY valid JSON. No markdown, explanations, or extra text.**
+Format: {"title":"...","summary":"...","skills":{...},"experience":[...]}
+
+## PROFILE DATA:
+**Candidate:** {{name}}
+**Contact:** {{email}} | {{location}}
+**Experience:** {{yearsOfExperience}} years
+
+**WORK HISTORY:**
+{{workHistory}}
+
+**EDUCATION:**
+{{education}}
+
+---
+
+## PERMANENT BASE CONTENT (from profile JSON)
+{{permanentResumeContext}}
+
+**Bullet counts for experience JSON:** {{experienceBulletGuidance}}
+
+---
+
+## JOB DESCRIPTION:
+{{jobDescription}}
+
+---
+
+## INSTRUCTIONS:
+
+### **0. NEVER DELETE BASE SKILLS OR BASE BULLETS (tailor by adding only)**
+
+The profile JSON supplies **permanent** content: `base_skills` as a **JSON array** of freeform lines (**first colon** separates the group label from comma-separated skills), e.g. `"Languages and frameworks: Python, JavaScript, React"` and `"Version control: Git, GitHub"`. Legacy object-shaped `base_skills` is still accepted. Also **`base_bullets`** (or `base_details`) per job. The application **merges** your JSON with that data using **append-only** rules:
+
+- **Every** base skill and **every** base bullet **always** appears on the final resume. You **must not** remove, omit, shorten, or replace them via your output.
+- In **`skills`**: output **only JD-tailored additions** (new categories and/or new skills). Base categories are merged **first**; your lists are **appended** per category. Do **not** try to “refresh” or re-specify base skills—add complementary JD keywords only.
+- In **`experience[].details`**: output **only new bullets** (25–35 words each) that **add** to the role. Base bullets are **prepended automatically**. Do **not** repeat base bullets in `details`, and do **not** write bullets that would supersede or contradict base facts.
+
+If no permanent block is shown above, generate a full resume from the profile + JD as usual.
+
+---
+
+### **0a. COUNTS, JD FIT, AND CREDIBILITY (non-negotiable)**
+
+- **Do not reduce bullets or skills to “save space.”** Follow **Bullet counts for experience JSON** above for every role. When base bullets exist, your `details` arrays are **additive only**—still output the **full** number of **new** bullets that block specifies (prefer the **upper** end when the JD is long or technical). After merge, each role should read as **fully JD-aligned**, not thinned out.
+- **Skills:** Meet the **§4** category and total targets. Never replace the profile’s permanent/base skills with a shorter list, and do not return a **skimpy** `skills` object versus those targets. Additive JD keywords should **expand** coverage, not **shrink** it.
+- **JD skills you “miss” on purpose:** If the JD asks for a tool, stack, license, or domain that is **not credible** from **base_skills + WORK HISTORY + EDUCATION** (no adjacent transfer, no stack overlap, would imply work or credentials the profile does not support), **do not add it** to `skills` or experience bullets. **Never fabricate** experience to cover a JD gap.
+- **Most recent role first:** **WORK HISTORY item #1** is the **first** entry in the numbered list (same order as `experience[0]` in your JSON). Put the **strongest JD alignment** there—dense JD keywords and outcomes that match the posting—while keeping older roles accurate to their dates and plausible tech for each era (see §5).
+
+---
+
+### **1. EXTRACT DOMAIN KEYWORDS** (Critical for 98%+ score)
+
+Analyze JD "About Us" section for **10-15 keywords** specific to company's product/industry:
+
+**WHERE TO USE:**
+- Summary: 3-5 keywords (lines 2-4)
+- Skills: 10-15 JD-aligned keywords (only where **§0a** credibility allows)
+- Experience: Each role must land at the **total bullet counts** required by **Bullet counts for experience JSON** + §5, with keywords woven in naturally.
+
+---
+
+### **2. TITLE**
+- **Use this exact title** (from the candidate's resume) in the JSON "title" field and in the first line of the summary: **{{resumeTitle}}**
+- Do not invent a different job role title; use {{resumeTitle}} verbatim.
+
+---
+
+### **3. SUMMARY** (5-6 lines, 8-12 JD keywords)
+
+**Structure:**
+- **Line 1:** {{resumeTitle}} with {{yearsOfExperience}}+ years in [domain from JD] across startup and enterprise environments
+- **Line 2:** Proficient in [3-4 more JD technologies/methodologies]
+- **Line 3:** [Soft skill from JD] professional with experience in [Agile/leadership/collaboration] in fast-paced environments
+- **Line 4:** Strong focus on [2-3 key JD skill areas] and delivering scalable, production-ready solutions
+
+**Example (FinTech):**
+"Senior Software Engineer with 8+ years building scalable platforms. Expertise in React.js 18, Node.js 20, and PostgreSQL. Proven track record implementing fraud detection algorithms that reduced chargebacks by 40% and processed $500M+ annually. Proficient in AWS infrastructure, Docker, Kubernetes, and KYC/AML compliance frameworks. Collaborative problem-solver with experience leading cross-functional teams in fast-paced startup environments. Strong focus on secure payment infrastructure, regulatory compliance, and delivering high-performance financial applications."
+
+---
+
+### **4. SKILLS** (60–75 total skills across 6–7 categories, prioritizing JD keywords over breadth.)
+
+**Rules:**
+- If the profile defines **base_skills**, your JSON `skills` is merged with them (**base entries are always kept first; nothing from base is deleted**). Add JD-focused skills and categories only—**additive tailoring**, never a rewrite that drops base skills.
+- **Minimum footprint:** Aim for the **60–75** total (count individual skills, not category headers). Do **not** slash categories or list lengths versus that band to keep the JSON short.
+- **Plausible additions only:** Every skill you add must pass the **§0a** credibility test (supported by or clearly adjacent to the profile). Skip JD buzzwords that would misrepresent the candidate.
+- Create categories based on JD focus (Frontend, Backend, Cloud, DevOps, Security, etc.)
+- 5-8 skills per category
+- Capitalize first letter of each skill
+- Group cloud services: "AWS (Lambda, S3, EC2, RDS)" NOT 25 separate items
+- 70% JD keywords + 30% complementary skills
+
+**Example (Full Stack Engineer):**
+```json
+"skills": {
+  "Frontend": ["React.js", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "Redux", "Vue.js", "HTML5", "CSS3"],
+  "Backend": ["Node.js", "Express.js", "Python", "Django", "FastAPI", "GraphQL", "REST APIs"],
+  "Databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Elasticsearch"],
+  "Cloud & Infrastructure": ["AWS (Lambda, S3, EC2, RDS, CloudFront)", "Docker", "Kubernetes", "Terraform"],
+  "DevOps & CI/CD": ["GitLab CI/CD", "GitHub Actions", "Jenkins", "Datadog", "Prometheus"],
+  "Testing": ["Jest", "Cypress", "Playwright", "React Testing Library"],
+  "Payment & Compliance": ["PCI-DSS", "Payment processing", "Stripe", "Fraud detection", "KYC/AML", "SOC 2"],
+  "Tools": ["Git", "Webpack", "Vite", "Figma", "Jira"]
+}
+```
+Total: ~40 skills (scannable and professional)
+
+**If relevant, create domain-specific category:**
+- FinTech → "Payment & Compliance"
+- Healthcare → "Healthcare Compliance & Standards"
+- Security → "Security & Identity"
+- Data → "Data Governance & Compliance"
+
+---
+
+### **5. EXPERIENCE** ({{experienceCount}} entries — follow bullet count guidance above)
+
+**STRICT Requirements (must be followed):**
+- Generate exactly {{experienceCount}} job entries; one entry per job in the work history—no more, no fewer.
+- Word count per bullet: every bullet MUST be 25–35 words. Count words; do not write short 1-line bullets or run-on sentences.
+- If permanent base bullets exist for a role, your `details` array is **only** the extra JD-tailored bullets; **all** base bullets are prepended by the system and **must never be removed or replaced** by anything you output.
+- **JD density:** For **work history #1** (most recent), maximize JD-relevant phrasing and outcomes **without** breaking **§0a** credibility or date-appropriate tech below.
+- For each work experience, ensure all technologies listed were widely available and commonly used in production during that role's time period; do not include tools, frameworks, or practices released after the role ended or unlikely to have been adopted in that era.
+- Include 2-4 JD keywords per bullet where **§0a** allows; do not force keywords from unrelated JD requirements into older roles if it would read false.
+- For every bullet, bold the 1-2 most recruiter-important phrases using `**...**` (impact metrics, required stack, business domain, or leadership outcomes). Do not bold random words; bold only the phrases recruiters should notice first.
+
+**Example Bullet (with domain keywords):**
+"Architected secure payment processing system using PCI-DSS compliant infrastructure with Node.js 20, PostgreSQL, and Redis, implementing fraud detection algorithms and tokenization that processed $500M+ annually while reducing chargebacks by 40% and maintaining 99.99% uptime for 2M+ users."
+
+
+Return ONLY valid JSON: {"title":"...","summary":"...","skills":{"Category":["Skill1","Skill2"]},"experience":[{"title":"...","details":["bullet1","bullet2",...]}]}
+**Final bullet rule:** If the profile has **no** permanent base bullets, each `experience[].details` must contain **6–8** bullets. If permanent base bullets exist, each `details` must follow **Bullet counts for experience JSON** (your output is **new** bullets only; merged totals must stay **full**, never pared down). Every bullet must be **25–35** words.
+

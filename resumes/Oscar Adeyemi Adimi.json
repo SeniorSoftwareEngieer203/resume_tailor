@@ -1,0 +1,110 @@
+{
+  "name": "Oscar Adimi",
+  "title": "Senior Data Scientist | Full stack AI Engineer | AI Content Creator",
+  "email": "oscaradimi@proton.me",
+  "phone": "",
+  "location": "Johns Creek, GA",
+  "zip": "30022",
+  "linkedin": "https://www.linkedin.com/in/oscar-adimi/",
+  "website": "",
+  "github": "",
+  "cvLink": "https://flowcv.com/resume/dsn4hoar5p29",
+  "base_skills": [
+    "Programming & Backend: Python (Pandas, NumPy, Scikit-learn), SQL, JavaScript, TypeScript, FastAPI, REST APIs, API Development, Object-Oriented Programming (OOP), Git, Testing (Unit/Integration)",
+    "Machine Learning: Supervised Learning, Unsupervised Learning, Classification, Regression, Clustering, Feature Engineering, Model Training, Model Evaluation, Hyperparameter Tuning, Ensemble Methods (Random Forest, XGBoost, LightGBM), Dimensionality Reduction (PCA, t-SNE), Model Interpretability (SHAP, LIME)",
+    "Deep Learning & NLP: Neural Networks, Deep Learning, Natural Language Processing (NLP), Text Processing, Sequence Modeling, Transformer Models, Transfer Learning, Tokenization, Embeddings",
+    "LLMs & AI Systems: Large Language Models (LLMs), LLMOps, LangChain, Autogen, Promptflow, Prompt Engineering, Retrieval-Augmented Generation (RAG), Vector Databases (FAISS, Pinecone), Semantic Search, AI Agents, LLM Evaluation",
+    "Data Engineering & Cloud: Data Pipelines, ETL Processes, Data Ingestion, Data Transformation, Azure Synapse Analytics, Azure Data Factory, Data Warehousing, Azure Machine Learning, Azure Databricks, Data Lakes",
+    "Analytics & Visualization: Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Data Visualization, Dashboarding, Business Intelligence, Power BI, Tableau, Data Storytelling",
+    "Deployment & Systems: Model Deployment, Production Systems, Scalable System Design, Performance Optimization, CI/CD Concepts, Docker, Kubernetes, MLflow, Model Monitoring, Model Drift Detection",
+    "Big Data & Distributed Systems: Apache Spark (PySpark), Distributed Computing, Batch Processing, Stream Processing, Kafka, Data Lake Architecture",
+    "Statistics & Experimentation: Hypothesis Testing, A/B Testing, Bayesian Statistics, Time Series Analysis, Experimental Design, Statistical Inference",
+    "Collaboration & Business: Stakeholder Communication, Cross-functional Collaboration, Requirements Analysis, Data-driven Decision Making, Business Strategy Alignment"
+  ],
+  "experience": [
+    {
+      "company": "Microsoft",
+      "title": "Senior Data Scientist",
+      "location": "",
+      "start_date": "11/2022",
+      "end_date": "04/2026",
+      "base_bullets": [
+        "Developed and maintained end-to-end machine learning systems using Python frameworks and Azure technologies, delivering scalable analytics solutions that generated actionable insights and supported strategic decision-making across business units.",
+        "Developed and enhanced data pipelines using Azure Synapse and Azure Data Factory, improving data ingestion and transformation processes and ensuring reliable, high-quality data availability for analytics and modeling.",
+        "Built supervised and unsupervised machine learning models using statistical and algorithmic techniques, generating insights that improved operational efficiency and supported business optimization initiatives.",
+        "Translated analytical findings into clear and actionable business insights, working closely with stakeholders to align technical solutions with business objectives and improve decision-making processes.",
+        "Developed LLM-powered applications using LangChain, Autogen, and Promptflow, integrating backend workflows and APIs to improve automation and streamline AI-driven processes.",
+        "Collaborated with software engineers to deploy machine learning models into production systems using FastAPI, ensuring scalability, maintainability, and reliable performance in enterprise environments.",
+        "Led data preparation efforts including data cleaning and feature engineering, improving data quality and increasing model accuracy and robustness across machine learning workflows.",
+        "Developed predictive models for pricing optimization, contributing to a 2% increase in profit and improving business performance through data-driven strategies.",
+        "Built models to analyze loss patterns and trends using statistical techniques, contributing to a 3% improvement in loss ratios and strengthening risk management strategies.",
+        "Monitored and improved machine learning model performance using iterative evaluation and tuning techniques, ensuring consistent performance and adaptability to changing data conditions.",
+        "Analyzed large datasets from multiple sources using exploratory data analysis and statistical methods, identifying trends and insights that supported data-driven decision-making.",
+        "Presented analytical insights and recommendations to technical and non-technical stakeholders, ensuring clear communication and increasing adoption of data-driven approaches.",
+        "Mentored junior team members through knowledge sharing and code reviews, improving team performance and promoting best practices in data science and engineering.",
+        "Improved data workflows and system performance using cloud-based tools and optimization techniques, increasing efficiency and scalability across analytics systems.",
+        "Supported enterprise data science strategy by contributing to roadmap discussions and aligning machine learning solutions with business priorities and long-term goals."
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "title": "Data Scientist",
+      "location": "",
+      "start_date": "09/2018",
+      "end_date": "11/2022",
+      "base_bullets": [
+        "Developed and maintained data pipelines using Azure technologies, enabling efficient data processing workflows that supported analytics, reporting, and machine learning applications across enterprise systems.",
+        "Built supervised and unsupervised machine learning models using statistical and algorithmic techniques, extracting insights from complex datasets to improve business performance and decision-making.",
+        "Performed data cleaning and feature engineering to transform raw datasets into structured formats, improving model accuracy, consistency, and reliability.",
+        "Analyzed datasets using exploratory data analysis techniques to identify trends, patterns, and relationships that informed business strategies and improved operational efficiency.",
+        "Translated analytical findings into business insights using visualization tools, effectively communicating results to stakeholders and supporting strategic decision-making.",
+        "Designed and validated machine learning models using testing methodologies and performance metrics, ensuring accuracy, robustness, and reliability.",
+        "Supported deployment of machine learning models by collaborating with engineering teams, ensuring smooth integration into production systems with scalability considerations.",
+        "Developed dashboards and reports to present key metrics and insights, enabling business users to interpret data and make informed decisions.",
+        "Provided analytical recommendations by interpreting model outputs and statistical trends, supporting business strategies and improving operational outcomes.",
+        "Improved data pipelines and machine learning workflows using optimization techniques and cloud-based tools, increasing performance and scalability.",
+        "Collaborated with cross-functional teams to align data science solutions with business requirements, ensuring successful delivery of analytics initiatives.",
+        "Expanded technical expertise in machine learning and data science by applying new tools and techniques, improving solution quality and innovation."
+      ]
+    },
+    {
+      "company": "Zurich Insurance Company Ltd",
+      "title": "Data Scientist",
+      "location": "",
+      "start_date": "12/2013",
+      "end_date": "02/2018",
+      "base_bullets": [
+        "Developed predictive models for risk assessment and pricing strategies using statistical and machine learning techniques on structured policy and claims datasets, increasing pricing accuracy, reducing model error rates, and improving underwriting decision efficiency.",
+        "Performed data cleaning and feature engineering on large structured datasets, transforming raw data into usable formats that improved model performance and reliability.",
+        "Analyzed datasets using statistical techniques to identify trends and patterns, generating insights that informed business decisions and improved operational efficiency.",
+        "Built and validated machine learning models using iterative testing approaches and historical data, improving forecast accuracy and consistency across modeling scenarios.",
+        "Presented analytical findings and recommendations to stakeholders, translating technical outputs into clear business insights that supported decision-making.",
+        "Improved model performance by refining methodologies using evaluation metrics and feedback loops, increasing predictive accuracy and consistency.",
+        "Supported data-driven decision-making by providing insights from statistical analysis and predictive modeling, improving efficiency and business outcomes.",
+        "Collaborated with stakeholders and technical teams to align data science solutions with business objectives, ensuring delivery of impactful analytics solutions."
+      ]
+    },
+    {
+      "company": "Zurich Insurance Company Ltd",
+      "title": "Predictive Modeler",
+      "location": "",
+      "start_date": "01/2013",
+      "end_date": "01/2015",
+      "base_bullets": [
+        "Developed statistical models for risk assessment using quantitative techniques on structured datasets, strengthening pricing strategies, improving prediction stability, and increasing consistency of decision-making outcomes across insurance analytics workflows.",
+        "Performed exploratory data analysis and preprocessing to identify key variables and relationships, preparing datasets for modeling and improving analytical effectiveness.",
+        "Built and tested predictive models using validation techniques and historical data, improving model accuracy, robustness, and consistency.",
+        "Presented analytical findings and model results to stakeholders, enabling clear understanding of insights and supporting data-driven decisions.",
+        "Optimized models using evaluation metrics and best practices, improving predictive performance and reliability."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's degree, Mathematics",
+      "school": "Roosevelt University",
+      "start_year": "08/2009",
+      "end_year": "08/2011"
+    }
+  ]
+}

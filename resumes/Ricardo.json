@@ -1,0 +1,88 @@
+{
+  "name": "Ricardo Langdon",
+  "title": "DevOps Engineer | Cloud Infrastructure Architect | Platform Engineering",
+  "email": "rlangdon1098@gmail.com",
+  "phone": "+1 (346) 355-6022",
+  "location": "Brooklyn, New York",
+  "zip": "11212",
+  "linkedin": "https://www.linkedin.com/in/ricardo-langdon-a2aaa2402",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [
+    "Cloud Platforms: AWS (EC2, EKS, ECS, Lambda, VPC, IAM, S3, RDS, CloudFront, Route 53, Control Tower, Macie, Config, WAF), Azure (AKS, AD, Blob, Defender), GCP (GKE, Cloud Run, BigQuery)",
+    "IaC & Configuration Management: Terraform, Ansible, Pulumi, CloudFormation, Packer",
+    "Containers & Orchestration: Kubernetes, Helm, Kustomize, ArgoCD, Flux, Docker",
+    "CI/CD & GitOps: GitHub Actions, Jenkins, GitLab CI, ArgoCD, Flux CD",
+    "Observability & SRE: Prometheus, Grafana, ELK Stack, Loki, OpenTelemetry, PagerDuty",
+    "Security & Compliance: Zero-trust architecture, Vault, Snyk, Trivy, OPA, IAM, WAF",
+    "Networking: VPC, DNS, PrivateLink, Nginx, Envoy, SSL/TLS",
+    "Scripting & Languages: Bash, Python, YAML",
+    "Databases & Messaging: PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ",
+    "Platform & Tools: Backstage, GitHub, GitLab, Jira, Confluence, Datadog"
+  ],
+  "experience": [
+    {
+      "company": "Cortex",
+      "title": "Senior Software Security Engineer / DevSecOps Lead",
+      "location": "San Francisco, CA",
+      "start_date": "03/2020",
+      "end_date": "02/2026",
+      "base_bullets": [
+        "Led DevOps and DevSecOps practices across cloud-native platforms using AWS and Azure, improving system reliability and deployment consistency.",
+        "Designed and maintained multi-cloud infrastructure supporting high-availability production systems.",
+        "Built and optimized CI/CD pipelines using GitHub Actions and Jenkins, integrating security scanning and automated testing.",
+        "Implemented Kubernetes-based platforms (EKS, AKS) to support containerized microservices and scalable workloads.",
+        "Managed infrastructure using Terraform, enabling automated provisioning across environments.",
+        "Applied security best practices including IAM policies, HashiCorp Vault, and vulnerability scanning tools (Snyk, Trivy).",
+        "Improved system observability using Prometheus, Grafana, and ELK Stack for monitoring, logging, and alerting.",
+        "Reduced security risks through automated vulnerability detection and remediation processes.",
+        "Collaborated with cross-functional teams to improve deployment workflows, release cycles, and system stability.",
+        "Supported incident response and system monitoring, ensuring high availability and rapid issue resolution."
+      ]
+    },
+    {
+      "company": "Palantir Technologies",
+      "title": "Senior DevOps Engineer / Cloud Engineer / Platform Engineer",
+      "location": "Denver, CO",
+      "start_date": "04/2016",
+      "end_date": "02/2020",
+      "base_bullets": [
+        "Built and maintained DevOps pipelines for microservices-based applications using Jenkins and Git workflows.",
+        "Implemented CI/CD processes with automated build, testing, and deployment pipelines.",
+        "Managed cloud infrastructure on AWS including EC2, VPC, IAM, and RDS services.",
+        "Configured monitoring and logging systems using ELK Stack and Grafana to improve system visibility.",
+        "Applied security best practices including encryption, access control, and secure deployment strategies.",
+        "Automated infrastructure processes using Bash and Python scripting along with configuration tools.",
+        "Improved system performance and reliability through proactive monitoring and optimization.",
+        "Collaborated with engineering teams to deliver scalable and secure cloud-based applications.",
+        "Supported incident response and troubleshooting, resolving production issues efficiently."
+      ]
+    },
+    {
+      "company": "Braze",
+      "title": "DevOps Engineer / Infrastructure Software Engineer",
+      "location": "New York, NY",
+      "start_date": "09/2013",
+      "end_date": "03/2016",
+      "base_bullets": [
+        "Built cloud infrastructure environments supporting distributed and scalable applications.",
+        "Implemented CI/CD pipelines to automate application deployment and integration workflows.",
+        "Managed infrastructure configuration and deployment using automation tools and scripting.",
+        "Applied security practices including encryption, IAM, and secure access management.",
+        "Supported application deployment and monitoring processes across production environments.",
+        "Improved deployment workflows and system performance through process optimization.",
+        "Collaborated with engineering teams on system design, deployment, and integration.",
+        "Maintained infrastructure stability and reliability across live systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Florida Polytechnic University",
+      "start_year": "09/2009",
+      "end_year": "08/2013"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Alex Sample",
+  "title": "Senior Software Engineer",
+  "email": "alex.sample@email.com",
+  "phone": "+1 555 010 2030",
+  "location": "Remote",
+  "zip": "00000",
+  "linkedin": "https://www.linkedin.com/in/example",
+  "website": "",
+  "github": "https://github.com/example",
+  "cvLink": "",
+  "base_skills": [
+    "Languages & runtimes: C#, .NET 8, TypeScript, SQL",
+    "Architecture & delivery: Microservices, REST APIs, CI/CD, System design",
+    "Leadership: Technical mentoring, Code review culture, Stakeholder communication"
+  ],
+  "experience": [
+    {
+      "company": "Acme Corp",
+      "title": "Staff Software Engineer",
+      "location": "Austin, TX",
+      "start_date": "01/2022",
+      "end_date": "Present",
+      "base_bullets": [
+        "Owned the payments reconciliation pipeline processing $400M+ annually with 99.99% uptime targets and PCI-aligned controls.",
+        "Led a team of five engineers through cloud migration from on-prem .NET monolith to containerized services on AWS.",
+        "Established engineering standards for observability, on-call playbooks, and blameless postmortems across three product squads."
+      ]
+    },
+    {
+      "company": "Beta Labs",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "start_date": "06/2018",
+      "end_date": "12/2021",
+      "base_bullets": [
+        "Shipped customer-facing analytics dashboards used by 50k+ weekly active users with role-based access and export tooling.",
+        "Reduced P1 incidents by 40% year over year by introducing SLOs, synthetic checks, and runbook automation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science, Computer Science",
+      "school": "State University",
+      "start_year": "2010",
+      "end_year": "2014"
+    }
+  ]
+}

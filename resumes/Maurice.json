@@ -1,0 +1,88 @@
+{
+  "name": "Maurice Williams ",
+  "title": "Senior Software Engineer (Backend, Distributed Systems, Payments Infrastructure)",
+  "email": "mauricewilliams800913@gmail.com",
+  "phone": "+1 (346) 355-6022",
+  "location": "Brooklyn, New York",
+  "zip": "",
+  "linkedin": "https://linkedin.com/in/maurice-williams-264a83402",
+  "website": "",
+  "github": "",
+  "cvLink": "",
+  "base_skills": [
+    "Backend & Languages: Java (Spring Boot), Node.js, Python (Django), Object-Oriented Programming, Distributed Systems",
+    "Architecture & APIs: Microservices Architecture, RESTful API Design, API Development, API Security, Public API Platforms, System Design",
+    "Cloud & Infrastructure: AWS (ECS, RDS, Lambda, S3), Cloud-Native Architecture, CI/CD Pipelines, Docker, Infrastructure Automation",
+    "Data & Messaging: SQL Databases (PostgreSQL), Schema Design, Query Optimization, Transaction Management, Event-Driven Architecture, Messaging Systems",
+    "Payments & Financial Systems: Payment Systems Integration, Banking APIs, Transaction Processing, Financial Data Systems, Secure Asset Transfer",
+    "Engineering Excellence: Testing Strategies, Code Quality Standards, Continuous Delivery, Production Debugging, Monitoring & Logging",
+    "Soft Skills: Adaptability, Problem Solving, Relationship-building, Resourcefulness, Curiosity, Persistence, Emotional Intelligence"
+  ],
+  "experience": [
+    {
+      "company": "Raia Labs",
+      "title": "Senior Lead Software Engineer",
+      "location": "Sarasota, FL",
+      "start_date": "08/2020",
+      "end_date": "01/2026",
+      "base_bullets": [
+        "Led architecture and delivery of end-to-end full-stack platforms using React, TypeScript, Node.js (NestJS), and PostgreSQL, powering advanced analytics dashboards and automation systems.",
+        "Directed frontend engineering by building high-performance React and TypeScript applications with reusable component systems and optimized rendering for data-intensive interfaces.",
+        "Orchestrated backend development of scalable microservices, defining modular system design and enforcing clean, maintainable API contracts.",
+        "Implemented dynamic UI solutions with Vue.js, enhancing real-time data visualization and interactive dashboard capabilities.",
+        "Designed and governed RESTful APIs and third-party integrations, ensuring reliability, scalability, and seamless data exchange across systems.",
+        "Integrated AI and LLM-driven features to enable intelligent automation, semantic search, and data classification workflows.",
+        "Optimized database performance through advanced PostgreSQL schema design and indexing strategies, boosting efficiency by 40% under high concurrency.",
+        "Engineered distributed systems using Redis caching and asynchronous background workers to support event-driven processing.",
+        "Drove cloud infrastructure strategy by containerizing services with Docker and deploying to AWS ECS with fully automated CI/CD pipelines via GitHub Actions.",
+        "Partnered cross-functionally with product and design teams to convert complex requirements into scalable, production-ready solutions.",
+        "Mentored engineers and enforced standards through code reviews, architectural guidance, and best practices, strengthening team productivity and code quality.",
+        "Enhanced system observability by implementing robust monitoring and logging frameworks, significantly improving reliability and incident response."
+      ]
+    },
+    {
+      "company": "StackOverdrive",
+      "title": "Full Stack Engineer",
+      "location": "New York, NY",
+      "start_date": "05/2016",
+      "end_date": "06/2020",
+      "base_bullets": [
+        "Built full-stack platforms using React, TypeScript, Node.js, and PostgreSQL to support financial analytics and reporting systems.",
+        "Developed React-based dashboards and visualization interfaces enabling real-time financial data analysis.",
+        "Designed scalable Node.js backend services and REST APIs handling high-volume ingestion from external financial data providers.",
+        "Implemented backend services using Python (Django) for data processing pipelines and internal automation tools.",
+        "Designed relational data models supporting millions of records, implementing indexing and query optimization strategies.",
+        "Developed asynchronous data ingestion pipelines and background job processing systems.",
+        "Improved API response latency by 35% through database optimization, caching strategies, and query refactoring.",
+        "Containerized applications using Docker and deployed to AWS infrastructure with automated CI/CD pipelines.",
+        "Worked closely with product and data teams to deliver scalable analytics capabilities."
+      ]
+    },
+    {
+      "company": "TechWize",
+      "title": "Full Stack Engineer",
+      "location": "New York, NY",
+      "start_date": "08/2013",
+      "end_date": "04/2016",
+      "base_bullets": [
+        "Built responsive web applications using JavaScript, React, and modern frontend frameworks.",
+        "Implemented backend services using Java (Spring Boot) and RESTful APIs supporting enterprise applications and reporting systems.",
+        "Developed backend services using Node.js for lightweight API services and integrations.",
+        "Designed relational database schemas and optimized SQL queries for transactional and reporting workloads.",
+        "Built reusable UI components and responsive layouts improving application usability and maintainability.",
+        "Integrated internal platforms with external enterprise systems through API-based integrations.",
+        "Assisted in migrating legacy systems to cloud-based infrastructure environments.",
+        "Contributed to CI/CD automation and deployment pipelines, improving release reliability and development efficiency.",
+        "Supported debugging and performance optimization across distributed application environments."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "school": "University at Albany (SUNY)",
+      "start_year": "09/2009",
+      "end_year": "08/2013"
+    }
+  ]
+}
